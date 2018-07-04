@@ -4,8 +4,9 @@
   <_Project>
     <ProjectName val="EventProject"/>
     <VCProjectID val="0"/>
-    <VCActive val="N"/>
+    <VCActive val="Y"/>
     <WorkOffline val="N"/>
+    <VCProjectName val="."/>
     <SourceDirectory val="Source"/>
     <ExportsDirectory val="Exports"/>
     <GUID val="{75DB1C8C-C901-47F4-9E95-15F6E2126822}"/>
