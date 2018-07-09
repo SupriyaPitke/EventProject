@@ -34,7 +34,7 @@
           <Offline val="N"/>
           <FormType val="M"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="736878" _time="64029" date="03/07/2018" time="17:47:09"/>
+          <LastModified _date="736884" _time="57553" date="09/07/2018" time="15:59:13"/>
         </Header>
         <ItemIsn val="13"/>
         <Resource>
@@ -420,13 +420,11 @@
             </Event>
             <TXT val="SaveUB"/>
             <Expanded val="1"/>
-            <Disabled val="1"/>
             <ExecuteOn_ val="O"/>
             <LogicLines>
               <LogicLine>
                 <STP Buttons="O" DefaultButton="1" ERR_LOG_DEF_CHG="N" Exp="5" FlowIsn="21" IMG_DEF_CHG="N" Image="E" Mode="W" TTL_DEF_CHG="N" TitleTxt="Warning" VR_DISP="B">
                   <AppendToErrorLog val="N"/>
-                  <Disabled val="1"/>
                   <Condition Exp="4"/>
                   <Modifier val="B"/>
                   <Direction val="C"/>
@@ -688,7 +686,7 @@
                 <Format id="82" valUnicode="Save"/>
                 <RaiseEvent id="234">
                   <EventType val="I"/>
-                  <InternalEventID val="14"/>
+                  <InternalEventID val="37"/>
                   <PublicObject comp="-1"/>
                 </RaiseEvent>
               </PropertyList>
