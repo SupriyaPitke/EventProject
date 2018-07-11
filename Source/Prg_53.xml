@@ -34,7 +34,7 @@
           <Offline val="N"/>
           <FormType val="M"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="736886" _time="62548" date="11/07/2018" time="17:22:28"/>
+          <LastModified _date="736886" _time="64924" date="11/07/2018" time="18:02:04"/>
         </Header>
         <ItemIsn val="13"/>
         <Resource>
@@ -392,12 +392,13 @@
         <TaskForms>
           <FormEntry _last_isn="21" _last_test_id="31" id="1">
             <PropertyList model="FORM_WEB_CLIENT">
-              <Width id="23" val="627"/>
-              <Height id="24" val="493"/>
+              <Width id="23" val="616"/>
+              <Height id="24" val="500"/>
               <FormUnits id="33" val="4"/>
               <_Comment id="218"/>
               <FormName id="311" valUnicode="AddingCustFromBooking"/>
               <WindowType id="358" val="12"/>
+              <CustomProperties id="713"/>
             </PropertyList>
             <Control PDOD="128" _test_id="25" id="1">
               <PropertyList model="CTRL_WEB_CLIENT_GROUP">
@@ -673,6 +674,14 @@
           <Expression id="6">
             <ExpSyntax val="'CUS'&amp;Trim(Str(Val(Right(Trim({0,4}),7),'#######')+1,'P0#######'))"/>
             <ExpAttribute val="A"/>
+          </Expression>
+          <Expression id="7">
+            <ExpSyntax val="600"/>
+            <ExpAttribute val="N"/>
+          </Expression>
+          <Expression id="8">
+            <ExpSyntax val="500"/>
+            <ExpAttribute val="N"/>
           </Expression>
         </Expressions>
         <EVNT DESC="AddCustomerFromBooking" FORCE_EXIT="N" id="1">
