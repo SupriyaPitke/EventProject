@@ -30,7 +30,7 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="736884" _time="56912" date="09/07/2018" time="15:48:32"/>
+          <LastModified _date="736886" _time="61750" date="11/07/2018" time="17:09:10"/>
         </Header>
         <ItemIsn val="17"/>
         <Resource>
@@ -78,7 +78,7 @@
             <LockingStrategy val="M"/>
             <CacheStrategy val="D"/>
             <ForceRecordSuffix val="N"/>
-            <TransactionMode val="D"/>
+            <TransactionMode val="N"/>
             <TransactionBegin val="P"/>
             <PreloadView val="N"/>
             <AllowEmptyDataview val="Y"/>
@@ -1022,7 +1022,7 @@
             <External val="N"/>
             <FormType val="N"/>
             <DotNetObjectExists val="N"/>
-            <LastModified _date="736884" _time="56912" date="09/07/2018" time="15:48:32"/>
+            <LastModified _date="736886" _time="61750" date="11/07/2018" time="17:09:10"/>
           </Header>
           <ItemIsn val="26"/>
           <Resource>
@@ -1078,7 +1078,7 @@
               <LockingStrategy val="M"/>
               <CacheStrategy val="D"/>
               <ForceRecordSuffix val="N"/>
-              <TransactionMode val="D"/>
+              <TransactionMode val="N"/>
               <TransactionBegin val="P"/>
               <PreloadView val="N"/>
               <AllowEmptyDataview val="Y"/>
